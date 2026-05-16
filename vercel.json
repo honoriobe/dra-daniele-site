@@ -1,7 +1,7 @@
 {
   "buildCommand": "echo 'Static site - no build needed'",
   "outputDirectory": ".",
-  "framework": "static",
+  "framework": "static", "buildCommand": "echo Build started at $(date)",
   "cleanUrls": true,
   "trailingSlash": false,
   "headers": [
